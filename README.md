@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header" width="100%"/>
-
-# Hi! I'm Bharani T 👋
-### AI & Data Science Undergraduate | Builder
+<img src="https://raw.githubusercontent.com/bharanit23/bharanit23/refs/heads/main/banner.svg" width="100%"/>
 
 </div>
 
