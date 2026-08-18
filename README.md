@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi!%20I'm%20Bharani%20T&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Undergraduate%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
+# Hi! I'm Bharani T 👋
+### AI & Data Science Undergraduate | Builder
 
 </div>
 
@@ -9,9 +10,9 @@
 <h3 align="center">💫 A bit about me</h3>
 
 - 🎓 AI & Data Science Undergraduate
-- 🐍 Python Developer & Machine Learning Enthusiast
+- 🐍 Java & Full Stack Developer
 - 🌾 Building real-world tools — agri-tech, volunteer platforms, and data dashboards
-- 📊 Exploring Data Analytics, NLP, and Intelligent Systems
+- 📊 Exploring Data Analytics, Web technologies, and Intelligent Systems
 - 🚀 Lifelong learner, passionate about technology and impact
 
 <br/>
@@ -81,13 +82,19 @@ An interactive Power BI dashboard analyzing OTT user behaviour, content performa
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bharanit23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharanit23&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/bharanit23&label=Public%20Repos&query=$.public_repos&color=6f42c1&style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharanit23&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bharanit23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharanit23&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharanit23&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+</p>
+
+> If the stats cards above don't load, GitHub's cache just needs a refresh — reopen your profile page after a minute.
 
 <br/>
 
